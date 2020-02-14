@@ -11,13 +11,21 @@ For this project, we will be exploring the statistics of US accidents in Decembe
 
 ## Data Source
 Local - [US Accidents Data](./data/US_Accidents_Dec19)
+
 Original - [https://www.kaggle.com/sobhanmoosavi/us-accidents](https://www.kaggle.com/sobhanmoosavi/us-accidents)
+
 Format - Excel CSV
+
 Key Attributes - Start Time, End Time, State, County, City, Zip Code, Severity
+
 Volume - 1.05 GB (3,000,000 unique entries)
+
 Variety - Structured
+
 Velocity - 0 because the data ends last year, only includes data from December 2019
+
 Veracity - Most attributes are clean, but a few are messy. The trustworthiness of this dataset is a little questionable, without any way to verify its integrity.
+
 Value - This could definitely hold some value to the city or state's government. They could use this data to see where more safety precautions are needed or maybe who needs more driving guidance/ training.
 
 ## Big Data Problems
